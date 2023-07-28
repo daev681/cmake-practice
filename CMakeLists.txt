@@ -7,3 +7,5 @@ project(
   VERSION 0.1
   DESCRIPTION "예제 프로젝트"
   LANGUAGES CXX)
+
+add_executable (program main.cc foo.cc)
