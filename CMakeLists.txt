@@ -8,4 +8,7 @@ project(
   DESCRIPTION "예제 프로젝트"
   LANGUAGES CXX)
 
+
+
 add_executable (program main.cc foo.cc)
+target_include_directories(program PUBLIC ${CMAKE_SOURCE_DIR}/includes)
