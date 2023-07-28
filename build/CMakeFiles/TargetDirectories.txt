@@ -1,3 +1,6 @@
 /Users/daeheon6811/cmake/build/CMakeFiles/program.dir
 /Users/daeheon6811/cmake/build/CMakeFiles/edit_cache.dir
 /Users/daeheon6811/cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/daeheon6811/cmake/build/lib/CMakeFiles/shape.dir
+/Users/daeheon6811/cmake/build/lib/CMakeFiles/edit_cache.dir
+/Users/daeheon6811/cmake/build/lib/CMakeFiles/rebuild_cache.dir

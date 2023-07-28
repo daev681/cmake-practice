@@ -10,6 +10,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../CMakeLists.txt"
   "CMakeFiles/3.23.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.23.2/CMakeSystem.cmake"
+  "../lib/CMakeLists.txt"
   "/opt/homebrew/Cellar/cmake/3.23.2/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/opt/homebrew/Cellar/cmake/3.23.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
   "/opt/homebrew/Cellar/cmake/3.23.2/share/cmake/Modules/CMakeGenericSystem.cmake"
@@ -38,9 +39,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "lib/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/program.dir/DependInfo.cmake"
+  "lib/CMakeFiles/shape.dir/DependInfo.cmake"
   )

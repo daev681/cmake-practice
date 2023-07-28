@@ -230,4 +230,5 @@ CMakeFiles/program.dir/main.cc.o: /Users/daeheon6811/cmake/main.cc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/__bit_reference \
-  /Users/daeheon6811/cmake/includes/foo.h
+  /Users/daeheon6811/cmake/includes/foo.h \
+  /Users/daeheon6811/cmake/includes/shape.h
