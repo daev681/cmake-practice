@@ -11,4 +11,6 @@ project(
 
 
 add_executable (program main.cc foo.cc)
+
+target_compile_options(program PUBLIC -Wall -Werror)
 target_include_directories(program PUBLIC ${CMAKE_SOURCE_DIR}/includes)
